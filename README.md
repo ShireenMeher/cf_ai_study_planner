@@ -108,7 +108,7 @@ It demonstrates how AI systems can evolve from:
 
 ---
 
-## How to run on local
+## How to run locally
 
 ```bash
 npm install
@@ -120,6 +120,7 @@ http://localhost:5173
 ```
 
 ## Live Demo
+
 Here is a link where you can access the agent live:
 
 https://cf-ai-study-planner.shireenmeher296.workers.dev
