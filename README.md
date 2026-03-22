@@ -6,6 +6,21 @@ Designed to simulate how real-world AI assistants manage evolving user context a
 
 ---
 
+### 🧠 AI generates a personalized study plan
+![Plan screenshot](screenshots/plan.jpeg)
+
+---
+
+### ⚡ Quick-start prompts for easy interaction
+![Home Screenshot](screenshots/homepage.jpeg)
+
+---
+
+### ⏰ Built-in task scheduling & reminders
+![Reminder Screenshot](screenshots/remind.jpeg)
+
+---
+
 ## Why this project
 
 Most AI applications today are **stateless** — they lose context across interactions.
