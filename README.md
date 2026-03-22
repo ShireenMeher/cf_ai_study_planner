@@ -125,14 +125,35 @@ It demonstrates how AI systems can evolve from:
 
 ## How to run locally
 
+Clone the repository:
+
+```bash
+git clone git@github.com:ShireenMeher/cf_ai_study_planner.git
+```
+
+Navigate into the project directory
+
+```bash
+cd cf-ai-study-planner
+```
+
+Install dependencies
+
 ```bash
 npm install
-npm run dev
+```
 
-Then open:
+Start the development server
+
+```bash
+npm run dev
+```
+
+Open in browser
+
+Visit:
 http://localhost:5173
 
-```
 
 ## Live Demo
 
